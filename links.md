@@ -18,3 +18,8 @@ A Great Documentation about javascript with details and examples about everythin
 basically the javascript handbook but online 
 
 https://devdocs.io/javascript/
+
+3.
+Human Javascript
+
+A Great example of how to use best practices in web development and javascript inviroments
