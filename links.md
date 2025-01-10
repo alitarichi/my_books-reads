@@ -23,3 +23,9 @@ https://devdocs.io/javascript/
 Human Javascript
 
 A Great example of how to use best practices in web development and javascript inviroments
+
+4.
+
+The actual GOLD of github by farrrrrrrr
+
+https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#javascript
